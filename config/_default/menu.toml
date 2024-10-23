@@ -18,7 +18,7 @@ icon = "brand-github"
 [[social]]
 identifier = "linkedin"
 name = "LinkedIn"
-url = ""
+url = "https://www.linkedin.com/in/yuan-qingpeng-585233334/"
 
 [social.params]
 icon = "brand-twitter"
